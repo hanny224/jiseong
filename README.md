@@ -1,7 +1,7 @@
 # jiseong
 <p>&nbsp;</p>
 
-<center><img src="Hello, my name is Jiseong, welcome to my site!" /></center><hr />
+<center><"Hello, my name is Jiseong, welcome to my site!" /></center><hr />
 
 <p style="text-align: center;"><a href="https://www.kodak.com/corp/default.htm">Click Here</a> to go to my favorite site</p>
 
